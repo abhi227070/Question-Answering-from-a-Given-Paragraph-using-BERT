@@ -27,8 +27,8 @@ To use this QA system:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 1](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/screenshot3.png)
+![Screenshot 1](screenshots/screenshot4.png)
 
 
 ## Acknowledgements
